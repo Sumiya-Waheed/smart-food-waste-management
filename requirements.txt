@@ -1,0 +1,5 @@
+crewai
+pydantic>=2.0
+python-dotenv
+groq
+pytest

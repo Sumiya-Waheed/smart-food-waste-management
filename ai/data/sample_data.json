@@ -1,0 +1,84 @@
+{
+  "recipients": [
+    {
+      "name": "Hope Community Center",
+      "location": "Sibi",
+      "distance_km": 5,
+      "capacity": 50,
+      "accepted_food_categories": ["Prepared Meal"],
+      "need_level": "high",
+      "availability": "Available"
+    },
+    {
+      "name": "Community Kitchen",
+      "location": "Sibi",
+      "distance_km": 3,
+      "capacity": 20,
+      "accepted_food_categories": ["Prepared Meal"],
+      "need_level": "high",
+      "availability": "Available"
+    },
+    {
+      "name": "Helping Hands Shelter",
+      "location": "Sibi",
+      "distance_km": 8,
+      "capacity": 80,
+      "accepted_food_categories": ["Prepared Meal", "Bakery"],
+      "need_level": "medium",
+      "availability": "Available"
+    },
+    {
+      "name": "Student Support Center",
+      "location": "Sibi",
+      "distance_km": 2,
+      "capacity": 100,
+      "accepted_food_categories": ["Prepared Meal"],
+      "need_level": "low",
+      "availability": "Available"
+    },
+    {
+      "name": "Family Relief Point",
+      "location": "Sibi",
+      "distance_km": 12,
+      "capacity": 40,
+      "accepted_food_categories": ["Dry Food"],
+      "need_level": "high",
+      "availability": "Available"
+    }
+  ],
+  "donations": [
+    {
+      "donation_id": "D001",
+      "food_name": "Vegetable Rice",
+      "quantity": 30,
+      "unit": "meals",
+      "category": "Prepared Meal",
+      "preparation_time": "4:00 PM",
+      "available_until": "8:00 PM",
+      "pickup_location": "University Cafeteria",
+      "condition": "Fresh"
+    },
+    {
+      "donation_id": "D002",
+      "food_name": "Bread",
+      "quantity": 15,
+      "unit": "loaves",
+      "category": "Bakery",
+      "preparation_time": "9:00 AM",
+      "available_until": "6:00 PM",
+      "pickup_location": "Campus Bakery",
+      "condition": "Fresh"
+    },
+    {
+      "donation_id": "D003",
+      "food_name": "Cooked Lentils",
+      "quantity": 10,
+      "unit": "meals",
+      "category": "Prepared Meal",
+      "preparation_time": "1:00 PM",
+      "available_until": "7:00 PM",
+      "pickup_location": "University Cafeteria",
+      "condition": "Fresh"
+    }
+  ]
+}
