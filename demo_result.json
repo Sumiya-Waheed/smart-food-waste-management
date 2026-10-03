@@ -1,0 +1,54 @@
+{
+  "status": "Ready for confirmation",
+  "donation": {
+    "donation_id": "D-001",
+    "donor": "ABC Restaurant",
+    "food": "Biryani",
+    "food_type": "cooked_meal",
+    "quantity": 50,
+    "unit": "portions",
+    "condition": "fresh",
+    "prepared_at": "16:30",
+    "available_until": "20:00",
+    "submitted_at": "17:45"
+  },
+  "selected_recipient": {
+    "organization": "Hope Community Center (DEMO)",
+    "score": 96,
+    "distance_km": 2.0,
+    "capacity": 60,
+    "need": "high"
+  },
+  "score_breakdown": {
+    "food_fit": 25,
+    "capacity": 25,
+    "need": 20,
+    "distance": 16,
+    "timing": 10
+  },
+  "alternatives": [
+    {
+      "organization": "Unity Food Support (DEMO)",
+      "score": 94
+    },
+    {
+      "organization": "Sunrise Shelter (DEMO)",
+      "score": 84.6,
+      "note": "partial"
+    }
+  ],
+  "rejected": [
+    {
+      "organization": "Green Leaf Welfare Center (DEMO)",
+      "reason": "does not accept cooked meals"
+    }
+  ],
+  "logistics": {
+    "pickup": "18:30",
+    "estimated_delivery": "18:50",
+    "delivery_target": "19:00",
+    "distance_km": 2.0,
+    "priority": "High"
+  },
+  "fallback_used": false
+}

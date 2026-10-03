@@ -1,0 +1,37 @@
+[
+  {
+    "Organization": "Hope Community Center (DEMO)",
+    "Accepted Food": "cooked_meal/packaged_food",
+    "Capacity": 60,
+    "Need": "high",
+    "Distance_km": 2.0
+  },
+  {
+    "Organization": "Sunrise Shelter (DEMO)",
+    "Accepted Food": "cooked_meal/bakery/packaged_food",
+    "Capacity": 40,
+    "Need": "medium",
+    "Distance_km": 1.2
+  },
+  {
+    "Organization": "Al-Noor Community Kitchen (DEMO)",
+    "Accepted Food": "cooked_meal/fresh_produce",
+    "Capacity": 100,
+    "Need": "medium",
+    "Distance_km": 4.5
+  },
+  {
+    "Organization": "Green Leaf Welfare Center (DEMO)",
+    "Accepted Food": "bakery/fresh_produce/beverages",
+    "Capacity": 80,
+    "Need": "low",
+    "Distance_km": 6.0
+  },
+  {
+    "Organization": "Unity Food Support (DEMO)",
+    "Accepted Food": "cooked_meal/packaged_food/bakery",
+    "Capacity": 55,
+    "Need": "high",
+    "Distance_km": 3.0
+  }
+]
